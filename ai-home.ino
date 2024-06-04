@@ -23,7 +23,7 @@ void setup()
   /*SEND COMMNAD TO ESP-01*/
   Serial1.println("AT+RST"); delay(100);
   Serial1.println("AT+CWMODE=1"); delay(100);
-  Serial1.println("AT+CWJAP=\"SSID\",\"PASS\""); delay(100);
+  Serial1.println("AT+CWJAP=\"Your hotspot name\",\"your password\""); delay(100);
   Serial1.println("AT+CIFSR"); delay(100);
   Serial1.println("AT+CIPMUX=1"); delay(100);
   Serial1.println("AT+CIPSERVER=1,80"); delay(100);

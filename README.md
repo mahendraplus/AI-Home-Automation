@@ -1,6 +1,6 @@
 # AI Home Project
 
-**Developer:** Mahendra Mali, (MAX,@m4u.xt) Gujarat
+**Developer:** Mahendra Mali, (MAX,@m4u.xt)
 
 ## Overview
 

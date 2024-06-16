@@ -1,0 +1,308 @@
+{
+  "ai-home-app": [
+    {
+      "name": "LED bulb old room",
+      "p": "1",
+      "pin": "1"
+    },
+    {
+      "name": "Fan living room",
+      "p": "0",
+      "pin": "2"
+    },
+    {
+      "name": "AC bedroom",
+      "p": "0",
+      "pin": "3"
+    },
+    {
+      "name": "Heater kitchen",
+      "p": "0",
+      "pin": "4"
+    },
+    {
+      "name": "Lamp study",
+      "p": "0",
+      "pin": "5"
+    },
+    {
+      "name": "Charger guest room",
+      "p": "0",
+      "pin": "6"
+    },
+    {
+      "name": "bedroom",
+      "p": "0",
+      "pin": "7"
+    },
+    {
+      "name": "Microwave kitchen",
+      "p": "0",
+      "pin": "8"
+    },
+    {
+      "name": "TV living room",
+      "p": "0",
+      "pin": "9"
+    },
+    {
+      "name": "Computer office",
+      "p": "0",
+      "pin": "10"
+    },
+    {
+      "name": "Washing machine laundry",
+      "p": "0",
+      "pin": "11"
+    },
+    {
+      "name": "Dryer laundry",
+      "p": "0",
+      "pin": "12"
+    },
+    {
+      "name": "Oven kitchen",
+      "p": "0",
+      "pin": "13"
+    },
+    {
+      "name": "Coffee maker kitchen",
+      "p": "0",
+      "pin": "14"
+    },
+    {
+      "name": "Humidifier bedroom",
+      "p": "0",
+      "pin": "15"
+    },
+    {
+      "name": "Dehumidifier basement",
+      "p": "0",
+      "pin": "16"
+    },
+    {
+      "name": "Ceiling fan bedroom",
+      "p": "0",
+      "pin": "17"
+    },
+    {
+      "name": "Dishwasher kitchen",
+      "p": "0",
+      "pin": "18"
+    },
+    {
+      "name": "Toaster kitchen",
+      "p": "0",
+      "pin": "19"
+    },
+    {
+      "name": "Blender kitchen",
+      "p": "0",
+      "pin": "20"
+    },
+    {
+      "name": "Air purifier living room",
+      "p": "0",
+      "pin": "21"
+    },
+    {
+      "name": "Vacuum cleaner living room",
+      "p": "0",
+      "pin": "22"
+    },
+    {
+      "name": "Hair dryer bathroom",
+      "p": "0",
+      "pin": "23"
+    },
+    {
+      "name": "Electric shaver bathroom",
+      "p": "0",
+      "pin": "24"
+    },
+    {
+      "name": "Ironing machine laundry",
+      "p": "0",
+      "pin": "25"
+    },
+    {
+      "name": "Water heater kitchen",
+      "p": "0",
+      "pin": "26"
+    },
+    {
+      "name": "Rice cooker kitchen",
+      "p": "0",
+      "pin": "27"
+    },
+    {
+      "name": "Slow cooker kitchen",
+      "p": "0",
+      "pin": "28"
+    },
+    {
+      "name": "Pressure cooker kitchen",
+      "p": "0",
+      "pin": "29"
+    },
+    {
+      "name": "Electric grill kitchen",
+      "p": "0",
+      "pin": "30"
+    },
+    {
+      "name": "Electric kettle kitchen",
+      "p": "0",
+      "pin": "31"
+    },
+    {
+      "name": "Electric skillet kitchen",
+      "p": "0",
+      "pin": "32"
+    },
+    {
+      "name": "Air fryer kitchen",
+      "p": "0",
+      "pin": "33"
+    },
+    {
+      "name": "Bread maker kitchen",
+      "p": "0",
+      "pin": "34"
+    },
+    {
+      "name": "Waffle maker kitchen",
+      "p": "0",
+      "pin": "35"
+    },
+    {
+      "name": "Popcorn maker kitchen",
+      "p": "0",
+      "pin": "36"
+    },
+    {
+      "name": "Juicer kitchen",
+      "p": "0",
+      "pin": "37"
+    },
+    {
+      "name": "Deep fryer kitchen",
+      "p": "0",
+      "pin": "38"
+    },
+    {
+      "name": "Ice cream maker kitchen",
+      "p": "0",
+      "pin": "39"
+    },
+    {
+      "name": "Yogurt maker kitchen",
+      "p": "0",
+      "pin": "40"
+    },
+    {
+      "name": "Food processor kitchen",
+      "p": "0",
+      "pin": "41"
+    },
+    {
+      "name": "Electric mixer kitchen",
+      "p": "0",
+      "pin": "42"
+    },
+    {
+      "name": "Electric knife kitchen",
+      "p": "0",
+      "pin": "43"
+    },
+    {
+      "name": "Electric can opener kitchen",
+      "p": "0",
+      "pin": "44"
+    },
+    {
+      "name": "Electric peeler kitchen",
+      "p": "0",
+      "pin": "45"
+    },
+    {
+      "name": "Electric coffee grinder kitchen",
+      "p": "0",
+      "pin": "46"
+    },
+    {
+      "name": "Electric meat grinder kitchen",
+      "p": "0",
+      "pin": "47"
+    },
+    {
+      "name": "Electric pasta maker kitchen",
+      "p": "0",
+      "pin": "48"
+    },
+    {
+      "name": "Electric tortilla maker kitchen",
+      "p": "0",
+      "pin": "49"
+    },
+    {
+      "name": "Electric wok kitchen",
+      "p": "0",
+      "pin": "50"
+    }
+  ],
+  "ai-home-esp": {
+    "pins": {
+      "p1": "0",
+      "p10": "0",
+      "p11": "0",
+      "p12": "0",
+      "p13": "0",
+      "p14": "0",
+      "p15": "0",
+      "p16": "0",
+      "p17": "0",
+      "p18": "0",
+      "p19": "0",
+      "p2": "0",
+      "p20": "0",
+      "p21": "0",
+      "p22": "0",
+      "p23": "0",
+      "p24": "0",
+      "p25": "0",
+      "p26": "0",
+      "p27": "0",
+      "p28": "0",
+      "p29": "0",
+      "p3": "0",
+      "p30": "0",
+      "p31": "0",
+      "p32": "0",
+      "p33": "0",
+      "p34": "0",
+      "p35": "0",
+      "p36": "0",
+      "p37": "0",
+      "p38": "0",
+      "p39": "0",
+      "p4": "0",
+      "p40": "0",
+      "p41": "0",
+      "p42": "0",
+      "p43": "0",
+      "p44": "0",
+      "p45": "0",
+      "p46": "0",
+      "p47": "0",
+      "p48": "0",
+      "p49": "0",
+      "p5": "0",
+      "p50": "0",
+      "p6": "0",
+      "p7": "0",
+      "p8": "0",
+      "p9": "0"
+    }
+  }
+}

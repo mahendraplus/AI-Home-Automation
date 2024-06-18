@@ -1,6 +1,6 @@
 # AI Home Project
 
-**Developer:** Mahendra Mali, (MAX,@m4u.xt)
+**Developer:** Mahendra Mali, Gujarat
 
 ## Overview
 
@@ -27,6 +27,24 @@ The AI Home Project is a smart home automation system designed to control 32 rel
 - **Active LOW Relays**: The relays are assumed to be active LOW, meaning they turn on when the pin is set to `LOW`. Adjust the logic if your relays are active HIGH.
 - **Serial Communication**: The ESP-01 module communicates with the Arduino Mega via the Serial1 interface, sending JSON formatted data to control the relays.
 
----
+## Latest Update
 
-This README.md provides a clear and concise description of the AI Home Project, focusing on its functionality, components, and key points without including detailed code or JSON formatting.
+**Date:** June 16, 2024
+
+### AI Home Project Update: Enhanced Relay Control and System Stability
+
+The latest update to the AI Home Project introduces improved relay control mechanisms and increased system stability. Users can now enjoy more reliable home automation with enhanced performance and better data retention across power cycles.
+
+### New Textview Release
+
+Experience the upgraded textview feature that provides clearer status updates and more intuitive control over your home automation system. This enhancement ensures seamless interaction and a better user experience.
+
+## Android App for Controlling Relays
+
+Control your home automation system conveniently using the newly released Android app. The app allows users to:
+
+- **Monitor and control** all 32 relays from their mobile device.
+- **Receive real-time updates** on the status of each relay.
+- **Intuitive Interface**: Easy to use and navigate, providing a seamless user experience.
+
+Download the app to enhance your smart home experience and manage your appliances effortlessly.

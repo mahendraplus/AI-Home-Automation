@@ -1,8 +1,8 @@
 {
   "title": "AI Home Project Update",
   "massage":"Enhanced Relay Control and Stability",
-  "version": "1.0",
-  "essential":"false",
+  "version": "1.1.0",
+  "essential":"true",
   "release": "16 jun 2024",
   "link": "https://github.com/mahendraplus/AI-Home-Automation",
   "description": "The latest update to the AI Home Project introduces improved relay control mechanisms and increased system stability. Users can now enjoy more reliable home automation with enhanced performance and better data retention across power cycles.",
